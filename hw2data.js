@@ -1,7 +1,7 @@
 {
   "data": [
     {
-      "name": "Aihua huang",
+      "name": "Aihua Huang",
       "telenumber": "333-1234-2345",
       "country": "China",
       "email": "aihua@gmail.com"
