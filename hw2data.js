@@ -41,6 +41,6 @@
       "telenumber": "424-1111-2345",
       "country": "China",
       "email": "mingli@gmail.com"
-    },
+    }
   ]
 }
